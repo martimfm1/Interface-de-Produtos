@@ -19,7 +19,6 @@ export function App() {
             Filtrar Resultados
           </Button>
         </form>
-        
           <Dialog>
             <DialogTrigger asChild>
                 <Button>
